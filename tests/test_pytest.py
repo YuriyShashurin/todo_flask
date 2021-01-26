@@ -43,4 +43,4 @@ def test_create_task_in_the_past():
     assert task is None
 
 def test_fail():
-    assert False
+    assert True

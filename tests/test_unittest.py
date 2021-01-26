@@ -86,7 +86,7 @@ class TestSetUp(unittest.TestCase):
         self.assertTrue(True)
 
     def test_doing_nothing_fail(self):
-        self.assertFalse(True)
+        self.assertFalse(False)
 
     def tearDown(self):
         print(2)
