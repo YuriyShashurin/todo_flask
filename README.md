@@ -1,7 +1,7 @@
 # basic_todo_list
 
 
-[![Build Status](https://travis-ci.com/YuriyShashurin/todo_flask.svg?branch=main)](https://travis-ci.com/YuriyShashurin/todo_flask)
+[![Build Status](https://travis-ci.com/YuriyShashurin/todo_flask.svg?branch=master)](https://travis-ci.com/YuriyShashurin/todo_flask)
 
 Basic Flask-Based to-do application. 
 How to start:
