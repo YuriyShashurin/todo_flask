@@ -2,7 +2,7 @@
 [![Travis][build-badge]][build]
 
 
-[build-badge]: https://travis-ci.com/YuriyShashurin/todo_flask.svg?branch=main
+[build-badge]: https://img.shields.io/travis/YuriyShashurin/todo_flask/master.png?style=flat-square
 [build]: https://travis-ci.org/YuriyShashurin/todo_flask
 
 Basic Flask-Based to-do application. 
